@@ -1,4 +1,5 @@
-## The two following functions take a given matrix and first cache it and then calculate its inverse and then cache that dat
+## The two following functions take a given matrix and first cache it and then calculate its inverse and 
+## then cache that data
 
 ## The following function takes a given matrix and using four nested functions sets up the variables with all 
 ##of the needed data for the following function to then calculate the inverse
